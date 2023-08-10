@@ -1,0 +1,4 @@
+/usr/sbin/clearcache > /dev/null
+./hybridsort /home/hungweitseng/300000000_1.bin 512 1
+/usr/sbin/clearcache > /dev/null
+./hybridsort_cpu /home/hungweitseng/300000000_1.bin 512 1
