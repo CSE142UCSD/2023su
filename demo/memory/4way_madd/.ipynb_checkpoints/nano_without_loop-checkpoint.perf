@@ -1,0 +1,27 @@
+9.000000
+
+ Performance counter stats for './madd_nano 16384 0':
+
+         14.255417      task-clock (msec)         #    0.804 CPUs utilized          
+                 5      context-switches          #    0.351 K/sec                  
+                 1      cpu-migrations            #    0.070 K/sec                  
+               244      page-faults               #    0.017 M/sec                  
+        14,421,790      cycles                    #    1.012 GHz                      (45.71%)
+         2,885,539      instructions              #    0.20  insn per cycle         
+   <not supported>      branches                                                    
+            13,358      branch-misses                                               
+         3,763,095      L1-dcache-loads           #  263.976 M/sec                  
+            30,922      L1-dcache-load-misses     #    0.82% of all L1-dcache hits  
+   <not supported>      LLC-loads                                                   
+   <not supported>      LLC-load-misses                                             
+         3,795,448      L1-icache-loads           #  266.246 M/sec                  
+            19,326      L1-icache-load-misses                                       
+   <not supported>      dTLB-loads                                                  
+             4,096      dTLB-load-misses                                              (53.08%)
+   <not supported>      iTLB-loads                                                  
+             2,601      iTLB-load-misses                                              (26.03%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       0.017739688 seconds time elapsed
+

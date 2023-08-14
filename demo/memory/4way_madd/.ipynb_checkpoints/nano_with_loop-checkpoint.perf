@@ -1,0 +1,27 @@
+107
+
+ Performance counter stats for './madd_nano 4096 4096':
+
+       7758.605182      task-clock (msec)         #    0.999 CPUs utilized          
+                79      context-switches          #    0.010 K/sec                  
+                 1      cpu-migrations            #    0.000 K/sec                  
+            82,085      page-faults               #    0.011 M/sec                  
+    11,429,641,256      cycles                    #    1.473 GHz                      (77.73%)
+     8,241,274,929      instructions              #    0.72  insn per cycle           (77.73%)
+   <not supported>      branches                                                    
+         4,795,795      branch-misses                                                 (77.73%)
+     3,496,266,660      L1-dcache-loads           #  450.631 M/sec                    (77.82%)
+        65,821,644      L1-dcache-load-misses     #    1.88% of all L1-dcache hits    (77.84%)
+   <not supported>      LLC-loads                                                   
+   <not supported>      LLC-load-misses                                             
+     2,888,271,740      L1-icache-loads           #  372.267 M/sec                    (77.85%)
+         1,988,635      L1-icache-load-misses                                         (77.84%)
+   <not supported>      dTLB-loads                                                  
+         1,080,435      dTLB-load-misses                                              (66.66%)
+   <not supported>      iTLB-loads                                                  
+           188,154      iTLB-load-misses                                              (66.61%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+       7.764428799 seconds time elapsed
+
