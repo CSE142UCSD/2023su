@@ -1,0 +1,3 @@
+size,list,IC,Cycles,CPI,CT,ET,L1_dcache_miss_rate,L1_dcache_misses,L1_dcache_accesses,branches,branch_misses
+4096,1,21070,35176,1.669483,1.023425,0.000036,0.141321,1314,9298,4205,47
+4096,0,41747,13451,0.322203,0.074344,0.000001,0.087746,1112,12673,9990,42
