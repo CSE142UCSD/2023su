@@ -1,0 +1,5 @@
+config,reps,size,size2,threads,arg1,arg2,arg3,function,IC,Cycles,CPI,CT,ET,L1_dcache_miss_rate,L1_dcache_misses,L1_dcache_accesses,branches,branch_misses
+ecores_only,1,1000000000,16384,1,1,1,1,run_private2_histogram,0,0,-nan,inf,2.722284,-nan,0,0,0,0
+ecores_only,1,1000000000,16384,2,1,1,1,run_private2_histogram,0,0,-nan,inf,2.746918,-nan,0,0,0,0
+ecores_only,1,1000000000,16384,3,1,1,1,run_private2_histogram,0,0,-nan,inf,2.138270,-nan,0,0,0,0
+ecores_only,1,1000000000,16384,4,1,1,1,run_private2_histogram,0,0,-nan,inf,1.873405,-nan,0,0,0,0

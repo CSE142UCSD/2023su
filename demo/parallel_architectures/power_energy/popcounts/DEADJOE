@@ -1,0 +1,16 @@
+
+*** These modified files were found in JOE when it aborted on Tue Aug 30 15:21:38 2022
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+main
+
+*** File '(Unnamed)'
+C.s
+D.s
+
+*** File '* Startup Log *'
+Processing '/nfshome/htseng/.joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /nfshome/htseng/.joerc

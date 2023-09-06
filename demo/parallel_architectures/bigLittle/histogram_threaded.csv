@@ -1,0 +1,2 @@
+reps,size,size2,threads,arg1,arg2,arg3,function,IC,Cycles,CPI,CT,ET,L1_dcache_miss_rate,L1_dcache_misses,L1_dcache_accesses,branches,branch_misses
+1,1000000000,16384,1,1,1,1,run_threaded_histogram,399993072719,99541071869,0.248857,0.304501,30.310350,0.001028,96484988,93833731464,92868962057,316798
